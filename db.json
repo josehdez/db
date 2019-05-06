@@ -51,6 +51,134 @@
       "clasificacion": "B"
     }
   ],
+  "ligamx": [
+  {
+    "posicion": 1,
+    "equipo": "León",
+    "puntos": 41,
+    "dif": 27,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/9/9.png"
+  },
+  {
+    "posicion": 2,
+    "equipo": "UANL",
+    "puntos": 37,
+    "dif": 17,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/16/16.png"
+  },
+  {
+    "posicion": 3,
+    "equipo": "Monterrey",
+    "puntos": 30,
+    "dif": 12,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/14/14.png"
+  },
+  {
+    "posicion": 4,
+    "equipo": "Cruz Azul",
+    "puntos": 30,
+    "dif": 11,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/6/6.png"
+  },
+  {
+    "posicion": 5,
+    "equipo": "América",
+    "puntos": 29,
+    "dif": 9,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/1/1.png"
+  },
+  {
+    "posicion": 6,
+    "equipo": "Necaxa",
+    "puntos": 29,
+    "dif": 8,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/29/29.png"
+  },
+  {
+    "posicion": 7,
+    "equipo": "Pachuca",
+    "puntos": 28,
+    "dif": 6,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/11/11.png"
+  },
+  {
+    "posicion": 8,
+    "equipo": "Tijuana",
+    "puntos": 28,
+    "dif": 5,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/5/5.png"
+  },
+  {
+    "posicion": 9,
+    "equipo": "Toluca",
+    "puntos": 25,
+    "dif": 5,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/17/17.png"
+  },
+  {
+    "posicion": 10,
+    "equipo": "Puebla F.C.",
+    "puntos": 24,
+    "dif": -3,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/11550/11550.png"
+  },
+  {
+    "posicion": 11,
+    "equipo": "Santos Laguna",
+    "puntos": 22,
+    "dif": -2,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/15/15.png"
+  },
+  {
+    "posicion": 12,
+    "equipo": "Lobos BUAP",
+    "puntos": 20,
+    "dif": -17,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/27/27.png"
+  },
+  {
+    "posicion": 13,
+    "equipo": "Atlas",
+    "puntos": 19,
+    "dif": -9,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/10445/10445.png"
+  },
+  {
+    "posicion": 14,
+    "equipo": "Guadalajara",
+    "puntos": 18,
+    "dif": -5,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/7/7.png"
+  },
+  {
+    "posicion": 15,
+    "equipo": "UNAM",
+    "puntos": 17,
+    "dif": -7,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/18/18.png"
+  },
+  {
+    "posicion": 16,
+    "equipo": "M. Morelia",
+    "puntos": 13,
+    "dif": -11,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/10/10.png"
+  },
+  {
+    "posicion": 17,
+    "equipo": "Queretaro",
+    "puntos": 11,
+    "dif": -19,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/3106/3106.png"
+  },
+  {
+    "posicion": 18,
+    "equipo": "Veracruz",
+    "puntos": 0,
+    "dif": -27,
+    "logo": "https://s3.amazonaws.com/lmxwebsite/docs/archdgtl/AfldDrct/logos/3107/3107.png"
+  }
+],
   "profile": {
     "name": "josehdez"
   }
