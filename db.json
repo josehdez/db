@@ -2,23 +2,48 @@
   "peliculas": [
     {
       "id": 1,
-      "title": "Avenger's End Game"
+      "title": "Avenger's End Game",
+      "duration": 182,
+      "horarios": [
+          "17:30", "20:00", "22:30"
+      ],
+      "clasificacion": "B"
     },
     {
       "id": 2,
-      "title": "Star Wars: A new Begining"
+      "title": "Star Wars: A new Begining",
+      "duration": 175,
+      "horarios": [
+          "16:35", "19:00", "21:30"
+      ],
+      "clasificacion": "A"
     },
     {
       "id": 3,
-      "title": "Indiana Jones y El Arca Perdida"
+      "title": "Indiana Jones y El Arca Perdida",
+      "duration": 122,
+      "horarios": [
+          "16:00", "18:20"
+      ],
+      "clasificacion": "B"
     },
     {
       "id": 4,
-      "title": "Interestelar"
+      "title": "Interestelar",
+      "duration": 154,
+      "horarios": [
+          "16:15", "19:10", "21:30", "22:00"
+      ],
+      "clasificacion": "C"
     },
     {
       "id": 5,
       "title": "Señales"
+      "duration": 120,
+      "horarios": [
+          "17:35", "18:00", "20:30", "21:35"
+      ],
+      "clasificacion": "B"
     }
   ],
   "profile": {
