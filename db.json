@@ -2,8 +2,9 @@
   "peliculas": [
     {
       "id": 1,
-      "title": "Avengers End Game",
-      "duration": 182,
+      "titulo": "Avengers End Game",
+      "imagen": "avengers.jpeg",
+      "duracion": 182,
       "horarios": [
           "17:30", "20:00", "22:30"
       ],
@@ -12,7 +13,8 @@
     {
       "id": 2,
       "title": "Star Wars: A new Begining",
-      "duration": 175,
+      "imagen": "starwars.jpeg",
+      "duracion": 175,
       "horarios": [
           "16:35", "19:00", "21:30"
       ],
@@ -21,7 +23,8 @@
     {
       "id": 3,
       "title": "Indiana Jones y El Arca Perdida",
-      "duration": 122,
+      "imagen": "inidanajones.jpeg",
+      "duracion": 122,
       "horarios": [
           "16:00", "18:20"
       ],
@@ -30,7 +33,8 @@
     {
       "id": 4,
       "title": "Interestelar",
-      "duration": 154,
+      "imagen": "interestelar.jpeg",
+      "duracion": 154,
       "horarios": [
           "16:15", "19:10", "21:30", "22:00"
       ],
@@ -39,7 +43,8 @@
     {
       "id": 5,
       "title": "Señales",
-      "duration": 120,
+      "imagen": "senales.jpeg",
+      "duracion": 120,
       "horarios": [
           "17:35", "18:00", "20:30", "21:35"
       ],
