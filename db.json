@@ -17,6 +17,33 @@
           "16:35", "19:00", "21:30"
       ],
       "clasificacion": "A"
+    },
+    {
+      "id": 3,
+      "title": "Indiana Jones y El Arca Perdida",
+      "duration": 122,
+      "horarios": [
+          "16:00", "18:20"
+      ],
+      "clasificacion": "B"
+    },
+    {
+      "id": 4,
+      "title": "Interestelar",
+      "duration": 154,
+      "horarios": [
+          "16:15", "19:10", "21:30", "22:00"
+      ],
+      "clasificacion": "C"
+    },
+    {
+      "id": 5,
+      "title": "Señales",
+      "duration": 120,
+      "horarios": [
+          "17:35", "18:00", "20:30", "21:35"
+      ],
+      "clasificacion": "B"
     }
   ],
   "profile": {
