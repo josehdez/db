@@ -1,8 +1,24 @@
 {
-  "posts": [
+  "peliculas": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Avenger's End Game"
+    },
+    {
+      "id": 2,
+      "title": "Star Wars: A new Begining"
+    },
+    {
+      "id": 3,
+      "title": "Indiana Jones y El Arca Perdida"
+    },
+    {
+      "id": 4,
+      "title": "Interestelar"
+    },
+    {
+      "id": 5,
+      "title": "Señales"
     }
   ],
   "profile": {
