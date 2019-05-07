@@ -12,7 +12,7 @@
     } ,
     {
       "id": 2,
-      "title": "Star Wars: A new Begining",
+      "titulo": "Star Wars: A new Begining",
       "imagen": "starwars.jpeg",
       "duracion": 175,
       "horarios": [
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "title": "Indiana Jones y El Arca Perdida",
+      "titulo": "Indiana Jones y El Arca Perdida",
       "imagen": "inidanajones.jpeg",
       "duracion": 122,
       "horarios": [
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "title": "Interestelar",
+      "titulo": "Interestelar",
       "imagen": "interestelar.jpeg",
       "duracion": 154,
       "horarios": [
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "title": "Señales",
+      "titulo": "Señales",
       "imagen": "senales.jpeg",
       "duracion": 120,
       "horarios": [
